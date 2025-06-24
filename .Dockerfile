@@ -2,7 +2,7 @@
 FROM python:3.
 
 # Define o diretório de trabalho dentro do container
-WORDIR /app
+WORKDIR /app
 
 # Copia o código-fonte para dentro do container
 COPY . /app
