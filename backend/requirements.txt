@@ -1,7 +1,6 @@
-uvicorn[standard]
+uvicorn
 fastapi
 requests
 pandas
 numpy
 pyodbc
-
