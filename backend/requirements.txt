@@ -1,4 +1,0 @@
-fastapi==0.115.14
-pymongo==4.13.2
-pyodbc==5.2.0
-uvicorn[standard]
